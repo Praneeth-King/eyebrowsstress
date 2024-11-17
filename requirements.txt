@@ -1,0 +1,17 @@
+flask
+gunicorn
+opencv-python-headless
+boost
+cmake
+Click
+dlib
+scipy
+numpy
+matplotlib
+imutils
+requests
+scikit-learn
+tensorflow
+keras
+Pillow
+jupyter
